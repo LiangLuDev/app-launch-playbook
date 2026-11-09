@@ -27,5 +27,6 @@
 | AlternativeTo | 未提交 | | | |
 | Uneed | 未提交 | | | |
 | LaunchBuff | 未提交 | | | |
+| LaunchNest | 未提交 | | | |
 
 状态建议：未提交 / 草稿 / 待验证 / 待审 / 已排期 / 已上线。
