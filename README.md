@@ -4,7 +4,7 @@
 
 最后实测：**2026-09-25**。规则可能变化，下次以提交页面为准。仅选免费方案，不自动购买加速或推广。
 
-最近补充：**2026-11-08**，核对 LaunchNest 官方公开页面，尚未实际提交产品。
+最近补充：**2026-11-09**，新增 1000 Tools、DevHub、VibeRank 和 Submit Your Startup，按官方公开页面记录，提交与发布流程待实测。
 
 ## 平台速查
 
@@ -16,6 +16,10 @@
 | [Uneed](https://www.uneed.best/submit-a-tool) | **已免费排期** | 免费账号同时只能有一个待发布产品。日期自动分配，有容量才开放；发布当天得分 ≥10 才保留，≥20 才保留 do-follow，低于 10 不能重新进免费队列。 |
 | [LaunchBuff](https://launchbuff.com/) | **已提交，部分已上线** | 需要官网展示平台徽章并通过验证。其他应用仍需回看徽章审核状态，不能把保存成功当上线。 |
 | [LaunchNest](https://launchnest.io/submit) | **待实测，已核对官方规则** | Free 方案 $0，发布需要官网安装徽章；验证徽章后获得 dofollow 外链，当天名额满则排队。支持邮箱验证码或 Google 登录。 |
+| [1000 Tools](https://1000tools.best/projects/submit) | **待实测，已核对官方规则** | 先登录。Free Launch 要求提交时官网 DR ≥10，并安装徽章、验证外链。官方标注审核及收录最长 60 天，包含永久 dofollow 外链。[官方价格与免费要求](https://1000tools.best/pricing) |
+| [DevHub](https://devhub.best/projects/submit) | **待实测，已核对官方规则** | 面向开发者工具。先登录。Free Launch 要求提交时官网 DR ≥10，并安装徽章、验证外链。官方标注审核及收录最长 60 天，包含永久 dofollow 外链。[官方价格与免费要求](https://devhub.best/pricing) |
+| [VibeRank](https://viberank.dev/) | **待实测，免费条件待确认** | 独立应用目录，按社区投票排行。从首页的 `Submit your app` 进入，费用和审核条件以提交界面为准。 |
+| [Submit Your Startup](https://submityourstartup.now/submit) | **待实测，已核对官方规则** | 先登录，支持 GitHub、Google 或邮箱。每周 30 个免费名额，按提交顺序排队，也可选更晚的一周。[官方排期说明](https://submityourstartup.now/) |
 
 先用一款应用跑通一个平台，再在该平台提交其余应用；已有条目先查重。
 
